@@ -23,13 +23,66 @@ Because MIT is celebrating its 150th anniversary in 2011, we will focus on conne
 Requirements and Grading
 ------------------------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Check-off writing assignments (one-page, not graded) | 15% |
-| Oral presentations and discussions | 15% |
-| Quizzes | 20% |
-| 4 papers (one paper must be revised, others may be; 4-5 pp. each, to total 20 pages including a longer revised paper) | 40% |
-| Revised paper | 10% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Check-off writing assignments (one-page, not graded)
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Oral presentations and discussions
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Quizzes
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4 papers (one paper must be revised, others may be; 4-5 pp. each, to total 20 pages including a longer revised paper)
+{{< tdclose >}}
+{{< tdopen >}}
+40%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Revised paper
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 This course is a [Communications Intensive HASS](http://web.mit.edu/commreq/) (CI-H) subject. Students are required to have two meetings with the class Writing Advisor.
 
@@ -45,34 +98,375 @@ Additional readings will be assigned from other sources.
 Calendar
 --------
 
-| LEC # | TOPICS | IN-CLASS ACTIVITIES & KEY DATES |
-| --- | --- | --- |
-| {{< td-colspan 3 >}}**Unit 1: Humankind as a History-making Species**{{< /td-colspan >}} |||
-| 1 | Introduction to class and key concepts | In class exercise: Maps of time |
-| 2 | What is _technology_? What is _history_ (and _prehistory_)? (Visitor: Prof. Leo Marx) | Writing (check-off): Question for Professor Marx |
-| 3 | Technology in prehistory: cave art | Discuss paper 1 assignment |
-| 4 | Technology in "prehistory" |  {{< br >}}{{< br >}} Writing (check-off): Where is "technology" in _The Clan of the Cave Bear_? {{< br >}}{{< br >}} Group discussions and presentations on reading {{< br >}}{{< br >}}  |
-| 5 | Historical Analogies | Paper 1 due |
-| {{< td-colspan 3 >}}**Unit 2: Civilizations Based on Agriculture**{{< /td-colspan >}} |||
-| 6 | The Neolithic Revolution | &nbsp; |
-| 7 | Introduction to MIT's 150th anniversary: class visit to MIT archives | Writing (check-off): Questions for Archivists |
-| 8 | Discuss visit to Archives | First mandatory meeting with writing advisor by this date |
-| 9 | Civilizations and Empires (part two) | Discuss paper 2 assignment |
-| 10 | Technohistorical Revolutions (part one) | &nbsp; |
-| 11 | Technohistorical Revolutions (part two) | Paper 2 due |
-| 12 | Agrarian Civilizations (part one): megalithic agrarian civilizations | Quiz on reading and lectures/discussions to date |
-| 13 | Agrarian Civilizations (part two): the Roman Empire as an agrarian civilization | &nbsp; |
-| {{< td-colspan 3 >}}**Unit 3: Civilizations Based on Fossil Fuels**{{< /td-colspan >}} |||
-| 14 | The Industrial Revolution | &nbsp; |
-| 15 | Visit to MIT Museum | Writing (check-off): Questions about your MIT topic for museum hosts |
-| 16 | The Second Industrial Revolution (part one) |  {{< br >}}{{< br >}} Paper 3 due {{< br >}}{{< br >}} Oral reports on paper 3 topics {{< br >}}{{< br >}}  |
-| 17 | The Second Industrial Revolution (part two) | Oral report on paper 3 topics (continued) |
-| {{< td-colspan 3 >}}**Unit 4: Human Empire**{{< /td-colspan >}} |||
-| 18 | The Second Industrial Revolution (part three) | Discuss Marx-Engels & Schivelbusch reading |
-| 19 | The Second Industrial Revolution (part four) | Group discussions and presentations: Comments on Marx-Engels & Schivelbusch reading |
-| 20 |  {{< br >}}{{< br >}} From Industry to Battlefield {{< br >}}{{< br >}} Chemical Engineering at MIT {{< br >}}{{< br >}}  | Finish group and individual oral reports |
-| 21 | Ground Zero (part one) |  {{< br >}}{{< br >}} Discussion of Hersey, _Hiroshima_, and "Ground Zero" from _Visualizing Cultures_ {{< br >}}{{< br >}} Second mandatory meeting with writing advisor by this date {{< br >}}{{< br >}}  |
-| 22 | Ground Zero (part two) |  {{< br >}}{{< br >}} _Fourth paper due_: comments on Hersey, _Hiroshima_ (default mode); other topics acceptable with permission {{< br >}}{{< br >}} Review for quiz {{< br >}}{{< br >}}  |
-| 23 | Looking Back and Beyond: General review of MIT 150 | Quiz |
-| 24 | Looking Back and Beyond: Presentations and discussion on "what is the role of technology in history?" | &nbsp; |
-| 25 | Looking Back and Beyond: Presentations and discussion on "what is the role of technology in history?" | Revised paper due: Student choice as to which one
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+IN-CLASS ACTIVITIES & KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Unit 1: Humankind as a History-making Species**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to class and key concepts
+{{< tdclose >}}
+{{< tdopen >}}
+In class exercise: Maps of time
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+What is _technology_? What is _history_ (and _prehistory_)? (Visitor: Prof. Leo Marx)
+{{< tdclose >}}
+{{< tdopen >}}
+Writing (check-off): Question for Professor Marx
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Technology in prehistory: cave art
+{{< tdclose >}}
+{{< tdopen >}}
+Discuss paper 1 assignment
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Technology in "prehistory"
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Writing (check-off): Where is "technology" in _The Clan of the Cave Bear_?
+
+Group discussions and presentations on reading
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Historical Analogies
+{{< tdclose >}}
+{{< tdopen >}}
+Paper 1 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Unit 2: Civilizations Based on Agriculture**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+The Neolithic Revolution
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to MIT's 150th anniversary: class visit to MIT archives
+{{< tdclose >}}
+{{< tdopen >}}
+Writing (check-off): Questions for Archivists
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Discuss visit to Archives
+{{< tdclose >}}
+{{< tdopen >}}
+First mandatory meeting with writing advisor by this date
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Civilizations and Empires (part two)
+{{< tdclose >}}
+{{< tdopen >}}
+Discuss paper 2 assignment
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Technohistorical Revolutions (part one)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Technohistorical Revolutions (part two)
+{{< tdclose >}}
+{{< tdopen >}}
+Paper 2 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Agrarian Civilizations (part one): megalithic agrarian civilizations
+{{< tdclose >}}
+{{< tdopen >}}
+Quiz on reading and lectures/discussions to date
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Agrarian Civilizations (part two): the Roman Empire as an agrarian civilization
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Unit 3: Civilizations Based on Fossil Fuels**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+The Industrial Revolution
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Visit to MIT Museum
+{{< tdclose >}}
+{{< tdopen >}}
+Writing (check-off): Questions about your MIT topic for museum hosts
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+The Second Industrial Revolution (part one)
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Paper 3 due
+
+Oral reports on paper 3 topics
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+The Second Industrial Revolution (part two)
+{{< tdclose >}}
+{{< tdopen >}}
+Oral report on paper 3 topics (continued)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Unit 4: Human Empire**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+The Second Industrial Revolution (part three)
+{{< tdclose >}}
+{{< tdopen >}}
+Discuss Marx-Engels & Schivelbusch reading
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+The Second Industrial Revolution (part four)
+{{< tdclose >}}
+{{< tdopen >}}
+Group discussions and presentations: Comments on Marx-Engels & Schivelbusch reading
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+From Industry to Battlefield
+
+Chemical Engineering at MIT
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Finish group and individual oral reports
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Ground Zero (part one)
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Discussion of Hersey, _Hiroshima_, and "Ground Zero" from _Visualizing Cultures_
+
+Second mandatory meeting with writing advisor by this date
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Ground Zero (part two)
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Fourth paper due_: comments on Hersey, _Hiroshima_ (default mode); other topics acceptable with permission
+
+Review for quiz
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Looking Back and Beyond: General review of MIT 150
+{{< tdclose >}}
+{{< tdopen >}}
+Quiz
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Looking Back and Beyond: Presentations and discussion on "what is the role of technology in history?"
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Looking Back and Beyond: Presentations and discussion on "what is the role of technology in history?"
+{{< tdclose >}}
+{{< tdopen >}}
+Revised paper due: Student choice as to which one
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
