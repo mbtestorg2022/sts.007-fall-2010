@@ -70,7 +70,7 @@ Technology in prehistory: cave art
 
 Notes ([PDF]({{< baseurl >}}/resources/mitsts_007f10_lec03_notes))
 
-Slides (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 11.7MB]({{< baseurl >}}/resources/mitsts_007f10_lec03_slides))
+Slides ([PDF - 11.7MB]({{< baseurl >}}/resources/mitsts_007f10_lec03_slides))
 
 
 {{< tdclose >}}
@@ -334,7 +334,7 @@ Chemical Engineering at MIT
 
 Notes ([PDF]({{< baseurl >}}/resources/mitsts_007f10_lec20_notes))
 
-Slides (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 10.2MB]({{< baseurl >}}/resources/mitsts_007f10_lec20_slides))
+Slides ([PDF - 10.2MB]({{< baseurl >}}/resources/mitsts_007f10_lec20_slides))
 
 
 {{< tdclose >}}
