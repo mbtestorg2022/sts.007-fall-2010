@@ -4,6 +4,7 @@ description: This resource contains information about what is technology? what i
   history?
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/sts-007-technology-in-history-fall-2010/7d1e7388e6c0c5d54e9d70e7a7149182_MITSTS_007F10_lec02_slides.pdf
 file_type: application/pdf
+parent_uid: 14ee9d7b-5639-3002-b279-d3a33a78c41a
 resourcetype: Document
 title: MITSTS_007F10_lec02_slides.pdf
 uid: 7d1e7388-e6c0-c5d5-4e9d-70e7a7149182
